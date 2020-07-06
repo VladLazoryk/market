@@ -2,7 +2,7 @@ export default function reducer(
     state = {
       // username: "Saurabh",
       // password: "Abc123",
-      users: [{ username: "Saurabh", password: "Abc123" }],
+      users: [{ username: "Vlad", password: "ABC1234" }],
       loginStatus: false
     },
     action
